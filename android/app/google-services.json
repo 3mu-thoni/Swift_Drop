@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "580367930936",
+    "project_id": "swiftdrop-92561",
+    "storage_bucket": "swiftdrop-92561.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580367930936:android:32a2b3663d63c9c7dd78cd",
+        "android_client_info": {
+          "package_name": "com.swiftdrop.swiftdrop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580367930936-u1jlvrpdnf3d20d6m6kboactrquofc7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvlAljySqtzRmJzdPDGSeJ983NVy_5byw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580367930936-u1jlvrpdnf3d20d6m6kboactrquofc7k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "580367930936-cqk1j5io264gcdahnvujsnodst3oqe9u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.swiftdrop.swiftdrop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
