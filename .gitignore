@@ -43,3 +43,21 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+# Environment files
+.env
+*.env
+
+# Firebase
+google-services.json
+GoogleService-Info.plist
+firebase_options.dart
+
+# Flutter
+.dart_tool/
+build/
+*.g.dart
+*.freezed.dart
+
+# Backend
+backend/node_modules/
+backend/.env
